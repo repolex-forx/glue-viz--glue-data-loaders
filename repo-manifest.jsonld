@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-data-loaders/commit/33b33f14dba4f3f9b47a9a890fea75cd5d2f12c5",
       "git:hexsha": "33b33f14dba4f3f9b47a9a890fea75cd5d2f12c5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
