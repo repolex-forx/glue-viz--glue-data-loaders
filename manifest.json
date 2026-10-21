@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-data-loaders",
+  "versions": [
+    {
+      "commit": "33b33f14dba4f3f9b47a9a890fea75cd5d2f12c5",
+      "parsed_at": "2026-10-21T22:23:37.454921+00:00",
+      "filetree": "filetree/33b33f14dba4f3f9b47a9a890fea75cd5d2f12c5.nq.gz",
+      "blobs": [
+        "blob/c73d091abd98e40df01f64bd824e4e69a0f09401.nq.gz",
+        "blob/2b605d37b364986a3e5a7f270e8d966ca00a2e5e.nq.gz",
+        "blob/0848c698f920d37bf298443f562a7fb4ef190e72.nq.gz",
+        "blob/082c467b13e76bdd3f857aea81d343c31db92391.nq.gz",
+        "blob/e43bdf67780be9e8d777e0a6f4e8a192050148c2.nq.gz",
+        "blob/0e1603dcc0de5b25a5f8f2641378cd56f6d4f2c3.nq.gz",
+        "blob/79f36631d374b4a67646aee73921eb9972fe3d26.nq.gz",
+        "blob/a7edf35001b9fa72c624c94a5df94fa4b0712ad1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
