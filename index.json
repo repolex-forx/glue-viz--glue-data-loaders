@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-data-loaders",
+  "versions": [
+    {
+      "commit": "33b33f14dba4f3f9b47a9a890fea75cd5d2f12c5",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:25:29.422414+00:00"
+    }
+  ]
+}
